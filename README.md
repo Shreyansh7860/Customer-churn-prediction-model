@@ -1,7 +1,7 @@
 # Customer Churn Prediction (Machine Learning)
 An end-to-end predictive machine learning project that identifies high-risk software subscribers before they cancel their subscriptions, enabling data-driven customer retention workflows.
 
-![Live Prediction Output](prediction_output.png)
+![Live Prediction Output](churn-model.png)
 
 ## 🛠️ Tech Stack & Skills Demonstrated
 * **Python (Pandas, NumPy):** Data ingestion, median imputation for missing usage values, and categorical data mapping.
